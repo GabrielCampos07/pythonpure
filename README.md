@@ -1,3 +1,3 @@
-# able-to-learn
-learning about everything, teaching the same.
-"Who teachs, learn twice".
+# Python pure
+Some projects with python only
+pure like and good like a water
