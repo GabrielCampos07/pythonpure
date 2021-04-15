@@ -1,2 +1,4 @@
-# Welcome to my python project!
-I hope you to enjoy it!
+# Jogo da forca
+
+## Utilizados:
+1. PYTHON
