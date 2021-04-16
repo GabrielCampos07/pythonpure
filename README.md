@@ -1,4 +1,4 @@
 # Jogo da forca
 
 ## Utilizados:
-1. PYTHON
+1. Python
